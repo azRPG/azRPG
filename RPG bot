@@ -1,0 +1,29 @@
+Hello, I'm RPG bot here my commands!
+
+commands:
+MEMBERS: 
+ *help -shows bot commands
+ *profile-shows your level
+ *levelup-get a new level
+ *invate-will send a bot 
+ invate 
+ ADMINISTRATION:
+ anti-swearing
+ automatically maked 
+ *ban -bans user
+ *kick -kicks user
+ *votekick -will start 
+ vote kicks or not 
+ *mute -mutes a user
+ *unmute -unmutes a user
+ *warn -warns a user
+ *clear -clears messages
+ *user -shows user infо
+ *server -shows server 
+ stats 
+ FUN:
+ *joke -telling jokes
+ *meme -random meme
+ *casino -try your luck
+ *cookie -it's time for a 
+ cookie!
